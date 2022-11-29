@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Jordan 1 Mochas",
+        "model": "jordan 1",
+        "description": "The upper of the Jordan 1 High Dark Mocha features a Sail leather base with black leather surrounding the toe box and Mocha suede on the heel and ankle. A black leather Swoosh, Jordan Wings logo on the ankle, and Nike Air branding on the tongue pays homage to branding that can be found on the original 1985 Jordan 1. A Sail midsole and black outsole complete this Black Toe design.",
+        "year": 2020,
+        "price": 322,
+        "image": "images/jordan 1 mocha.jpeg"
+    },
+    {
+        "name": "Jordan 1 Bred",
+        "model": "jordan 1",
+        "description": "Combining elements of three certified classic AJ1’s, the 2018 Jordan 1 Retro High Bred Toe is like the Coachella lineup of OG 1s. Coming in gym red, black, and summit white, with red on the toe box, outsole, and wrapping around the ankle and heel, white side panels and midsole and black covering the rest of the sneaker, it’s a perfectly balanced mash-up of the Banned, Chicago, and Black Toe all in one. Originally releasing in February of 2018, the Bred toe has been one of the most popular sneakers on StockX since its drop. For fans of the AJ1, this colorway is a must Bid.",
+        "year": 2018,
+        "price": 450,
+        "image": "images/bred 1.jpg"
+    },
+    {
+        "name": "Jordan 1 Obsidian UNC",
+        "model": "jordan 1",
+        "description" : "This AJ 1 features a similar design to the 'UNC Patent' 1s that released in February of 2019, only this time the colorway receives a full leather treatment. This sneaker released in August of 2019 and retails for $160.",
+        "year": 2019,
+        "price": 350,
+        "image": "images/obsidian.jpg"
+    },
+    {
+        "name": "Jordan 1 Shadow",
+        "model": "jordan 1",
+        "description": "Despite the name, the Air Jordan 1 Shadows are a pair that will put any fit of yours firmly in the spotlight. This very rare OG colorway has now hit shelves only three times, making these a must-own for any AJ1 collector. The shoe features a black and grey leather upper with original 'Nike Air' branding on the tongue tag and insoles, along with a white midsole and black outsole. Dropping in April of 2018, they were released in mens and gradeschool sizes.",
+        "year": 2018,
+        "price": 370,
+        "image": "images/shadow 1.jpg"
+    },
+    {
+        "name": "Jordan 11 Concord",
+        "model": "Jordan 11",
+        "description": "Jordan Brand is reaching harder than MJ on Space Jam for the sneaker of the year crown by releasing the Jordan 11 Retro Concord (2018). This Iconic Jordan 11 colorway is showcasing a white upper with black accents, white midsole, and a freezing cold translucent sole. These sneakers released in December 2018 and retailed for $220. Revisit the dominant legacy MJ left behind and grab a pair on Orlando's Shoestore today.",
+        "year": 2018,
+        "price": 450,
+        "image": "imgaes/jordan 11 concord.jpg"
+    },
+    {
+        "name": "Jordan 11 Bred",
+        "model": "jordan 11",
+        "description": "These sneakers represent MJ’s comeback from retirement to win his fourth title with the Chicago Bulls and the 1996 Finals MVP. This is the fourth time this colorway has been retroed since it’s original debut. This Jordan 11 features a black upper with shiny patent leather overlays and red detailing. A red translucent outsole, white midsole, and 23 insignia on the heel completes the design. These sneakers released in November of 2019 and retailed for $220.",
+        "year": 2019,
+        "price": 300,
+        "image": "images/jordan 11 bred.jpg"
+    },
+    {
+        "name": "Jordan 1 Court Purple",
+        "model": "Jordan 1",
+        "description": "What screams both royalty and NBA’s rookie of year in 1985? The Air Jordan 1 Retro High Court Purple. Showcasing a magical splash of color, these shoes have a leather upper in black, sail, and court purple. Showing similarities with the 'Bred Toe', the Air Jordan 1 Retro has a black 'Swoosh' with a white midsole and court purple sole. This silhouette released in September 2018 and retailed at $160",
+        "year": 2018,
+        "price": 450,
+        "image": "images/court 1 purple.jpg"
+    },
+    {
+        "name": "Jordan 11 Cool Grey",
+        "model": "jordan 11",
+        "description": "The Air Jordan 11 Cool Grey (2021) features a Cool Grey Durabuck upper with patent leather overlays and a signature Jumpman embroidery on the collar. From there, a white midsole and an icy blue translucent outsole complete the design.",
+        "year": 2021,
+        "price": 300,
+        "image": "images/jordan 11 cool grey.jpg"
+    },
+    {
+        "name": "Jordan 4 Fire Red",
+        "model": "Jordan 4",
+        "description":"This Jordan 4 consists of a white leather upper with black and Fire Red detailing. Rubber netted underlays, black heel tabs with 'Nike Air' branding, and black with fire red midsoles completes this design. These sneakers released in November of 2020 and retailed for $200.",
+        "year": 2020,
+        "price": 255,
+        "image": "images/jordan 4 fire red.jpg"
+    },
+    {
+        "name": "Jordan 4 Red Thunder",
+        "model": "Jordan 4",
+        "description": "Following similar color blocking as the Air Jordan 4 Thunder, the Air Jordan 4 Red Thunder features an all-black Durabuck upper with red netted underlays and eyelets. On the tongue, a signature Air Jordan Flight patch is stitched. A vibrant red midsole and Jumpman heel tab complete the retro design.",
+        "year": 2022,
+        "price": 200,
+        "image": "images/jordan 4 red thunder.jpg"
+    },
+    {
+        "name": "Jordan 3 Cool Grey",
+        "model": "Jordan 3",
+        "description": "This colorway was originally created as a Player Exclusive for athletes at the University of North Carolina. After much anticipation, Jordan decided to make this release available to the public, only this time replacing the embroidered UNC logo on the tongue with their signature Jumpman logo.This Jordan 3 is comprised of a white tumbled leather upper with grey elephant print mudguards and valor blue detailing. A white rubber heel tab, visible Air unit, and grey outsole completes this design",
+        "year": 2020,
+        "price": 450,
+        "image": "images/jordan 3 unc.jpg"
+    },
+    {
+        "name": "Jordan 3 Retro Dark Iris",
+        "model": "Jordan 3",
+        "description": "The leather base is primarily white with purple highlights around the heel and on the ankle. The shoe also has a black interior, plus a black-and-gray elephant print overlay. The Air Jordan 3 Retro Dark Iris is completed with a white midsole and Cement Grey outsole. The shoe features the Jumpman logo on the tongue and heel, with the 'AIR' brand logo below the Jumpman.",
+        "year": 2022,
+        "price": 221,
+        "image": "images/jordan 3 retro dark iris.jpg"
+    },
+    {
+        "name": "Jordan 4 Black Cat",
+        "model": "Jordan 4",
+        "description": "Originally debuting in 2006, this is the first time the Black Cat colorway has seen a retro. The fourteen year Black Cat drought has officially ended.This Jordan 4 is composed of a black nubuck suede upper with matching detailing. Black hardware, netting, and outsoles complete the design. These sneakers released in January of 2020 and retailed for $190.",
+        "year": 2020,
+        "price": 700,
+        "image": "images/jordan 4 black cat.jpg"
+    },
+    {
+        "name": "Jordan 5 Retro Grape",
+        "model": "Jordan 5",
+        "description": "The Air Jordan 5 Retro ‘Grape’ returned to Jordan Brand retailers in May of 2013. One of the original four colorways released in 1990, the sneaker was worn by MJ during a Wheaties box cover shoot and by Will Smith on the Fresh Prince of Bel-Air. Previously retro’d in 2006, the design combines a White leather upper with Black, New Emerald, and Grape accents on a translucent blue outsole.",
+        "year": 2013,
+        "price": 400,
+        "image": "images/jordan 5 retro grape.jpg"
+    },
+    {
+        "name": "Crocs Classic Clog Lightning Mcqueen",
+        "model": "Crocs",
+        "description": "The Crocs Classic Clog Lightning McQueen is an official collaboration with Disney Pixar's Cars franchise. These Lightning McQueen Crocs pay homage to the movie's lead character, who is voiced by Owen Wilson. The Crocs look is loosely based on the Chevrolet Corvette C1, a racing car produced between 1953 and 1962.These Lightning McQueen Crocs feature a red foam construction with printed graphics that resemble Lightning McQueen. Ventilation holes on the upper with a sole with grooves add the finishing touch.",
+        "year": 2021,
+        "price": 80,
+        "image": "images/crocs.jpg"
+    }
+]
