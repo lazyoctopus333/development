@@ -1,8 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
-
+https://lazyoctopus333.github.io/development/
 ### Goal and Value of the Application
 The goal of my application is a shopping site for shoes where users can filter and sort the shoes they want to buy. 
 ### Usability Principles Considered
