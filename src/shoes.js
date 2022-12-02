@@ -1,16 +1,20 @@
 
 function ShoeItem(props){
-    return (<button className="shoe" onClick={() => {props.addToCart(props.item)}} >
+    return (<div className="card">
+        <div className= "card-body">
         <img src={props.item.image} />
-        <div display="flex"  flex-direction="row">
-        <p> Name:{props.item.name} </p>
+        <h5>{props.item.name}</h5>
+        <p>{props.item.description}</p>
         <p> Year: {props.item.year} </p>
-        <p> Model: {props.item.model}</p>
         <p> Price: ${props.item.price} </p>
+        {/* <button type="button" class="btn btn-primary">Primary</button> */}
+        <button onClick={() => {props.addToCart(props.item)}}>Add to Cart</button>
+        <button onClick={() => {props.removeFromCart(props.item)}}>Remove From Cart</button>
         </div>
-        <p> {props.item.description} </p>
+
+       
         {/* <button onClick={() => {props.addToCart(props.item)}}></button> */}
-    </button>)
+    </div>)
 }
 
 export default ShoeItem;
